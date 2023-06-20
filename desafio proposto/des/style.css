@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(19, 17, 17);
+    color: white;
+    font-family: fantasy;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+   
+}
+
+iframe{
+    margin-left: 70px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+ 
