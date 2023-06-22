@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color:white
+}
+
+main{
+    width: 400px;
+}
+img{
+    display:flex;
+    margin: auto;
+    
+}
+.container{
+    display: flex;
+   margin: auto;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+}
+
+iframe{
+    display: flex;
+    margin: auto;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
